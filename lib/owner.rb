@@ -62,7 +62,8 @@ def pets
   
 end
   
-  def sell_cats
+  def sell_pets
+    pets
     
     
   end
