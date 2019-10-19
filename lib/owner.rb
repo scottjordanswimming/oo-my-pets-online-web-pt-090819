@@ -54,5 +54,8 @@ def feed_cats
   
 end
   
+  def sell_cats
+    
+  end
 
 end
