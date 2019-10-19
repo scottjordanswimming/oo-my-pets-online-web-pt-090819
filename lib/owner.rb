@@ -29,7 +29,7 @@ def self.reset_all
 end
 
 def cats 
-  
+  Cat.all.select {|cat|
   
 end
 
