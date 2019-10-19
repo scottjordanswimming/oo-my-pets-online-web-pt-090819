@@ -8,6 +8,8 @@ class Owner
     @species = "human"
 end
 
+def say_species
+  "I am a human"
 
 
 end
