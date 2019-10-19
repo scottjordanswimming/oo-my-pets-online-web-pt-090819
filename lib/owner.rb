@@ -55,11 +55,11 @@ def feed_cats
 end
 
 def pets 
- # pets = []
- # pets << dogs 
- # pets << cats 
- # pets.flatten
-  pets = dogs + cats
+  pets = []
+  pets << dogs 
+  pets << cats 
+  pets.flatten
+ 
 end
   
   def sell_pets
