@@ -51,5 +51,7 @@ end
 
 def cats.each{|c| c.mood = "happy"}
   
+end
+  
 
 end
