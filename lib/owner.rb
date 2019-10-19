@@ -56,6 +56,11 @@ end
 
 def pets 
   pets = []
+  pets << dogs 
+  pets << cats 
+  pets.flatten
+  
+end
   
   def sell_cats
     
