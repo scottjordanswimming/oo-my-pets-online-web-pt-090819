@@ -53,6 +53,9 @@ def feed_cats
   cats.each{|c| c.mood = "happy"}
   
 end
+
+def pets 
+  pets = []
   
   def sell_cats
     
