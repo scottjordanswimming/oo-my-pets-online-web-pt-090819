@@ -48,6 +48,8 @@ end
 def walk_dogs
   dogs.each{|d| d.mood = "happy"}
 end
+
+def cats.each{|c| c.mood = "happy"}
   
 
 end
