@@ -67,7 +67,6 @@ end
      p.mood = "nervous"
      p.owner = nil 
    end
-end
-end
+
 
 end
