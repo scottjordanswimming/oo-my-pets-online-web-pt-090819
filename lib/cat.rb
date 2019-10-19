@@ -9,6 +9,8 @@ class Cat
     @owner = owner
     @mood = "nervous"
     @@all << self
+    
+  end
   
   
 end
